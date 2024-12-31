@@ -46,7 +46,7 @@ $$
 \end{align}
 $$
 
-**Student Question: What is the overall reaction?**
+**Student Question: What is the overall reaction?**  
 Holding the concentrations [A], [B], [D] and [E] constant, the concentrations [X] and [Y] change according to the rate equations:
 
 $$
