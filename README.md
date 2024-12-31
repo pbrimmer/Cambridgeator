@@ -8,7 +8,7 @@ A Chemical Oscillator Practical for the PSLU MPhil.
 
 ## Pre-Practical Motivation and Review
 
-Words.
+Words. words.
 
 ![Formose, from White & Rimmer 2024](formose_white.jpg)
 
