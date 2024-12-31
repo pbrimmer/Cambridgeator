@@ -35,7 +35,7 @@ Words.
 Words.
 
 ### Description of the Oscillator:
-The Cambridgeator, which is really just the Brusselator set up to compare with the Iodine clock experiment, follows these reactions:
+The Cambridgeator, which is really just the Brusselator set up to compare with the Iodine clock experiment, follows these reactions involving the chemical species A, B, D, E, X and Y, with rate constants $k_1$, $k_2$, $k_3$, and $k_4$, as such:
 
 $$
 \begin{align}
@@ -47,6 +47,7 @@ $$
 $$
 
 **Student Question: What is the overall reaction?**  
+**Student Question: Which step is the autocatylitic step?**  
 Holding the concentrations [A], [B], [D] and [E] constant, the concentrations [X] and [Y] change according to the rate equations:
 
 $$
@@ -55,3 +56,7 @@ $$
 \frac{d[{\rm Y}]}{dt} &= k_3 [{\rm B}] [{\rm X}] - k_2 [{\rm X}]^2 [{\rm Y}], \\
 \end{align}
 $$
+
+**Student Question: What is the system's steady state?**  
+**Student Challenge Question: Is the steady state stable or unstable?**  
+Words.
