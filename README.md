@@ -11,7 +11,7 @@ A Chemical Oscillator Practical for the PSLU MPhil.
 > The supreme property of chemical matter is its potency to have given rise to the emergence of life.  
 > &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; -- Albert Eschenmoser (2007, Tetrahedron, 63, 24. 21821.)
 
-> Life has to be a set of molecules that can mutually catalyze one another’s formation.
+> Life has to be a set of molecules that can mutually catalyze one another’s formation.  
 > &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; -- Stuart Kauffman, [Interview with Jim Rutt](https://jimruttshow.blubrry.net/the-jim-rutt-show-transcripts/transcript-of-episode-18-stuart-kauffman-on-complexity-biology-t-a-p/)
 
 ![Formose Reaction, from White & Rimmer 2024](formose_white.jpg)
