@@ -36,6 +36,7 @@ Words.
 
 ### Description of the Oscillator:
 The Cambridgeator, which is really just the Brusselator set up to compare with the Iodine clock experiment, follows these reactions:
+
 $$
 \begin{align}
 {\rm A} &\rightarrow {\rm X} & k_1 \\
@@ -44,6 +45,7 @@ $$
 {\rm X} &\rightarrow {\rm E} & k_4
 \end{align}
 $$
+
 **Student Question: What is the overall reaction?**
 Holding the concentrations [A], [B], [D] and [E] constant, the concentrations [X] and [Y] change according to the rate equations:
 
