@@ -36,10 +36,10 @@ tmax = 100.0      #Maximum time
 alpha = 0.2     #Difference between dt and the chemical timescale.
                 #SHOULD BE < 0.5 to keep the Courant condition!
 
-k1 = 1.0*0.5      #Rate constant for A -> X
-k2 = 1.0*0.5      #Rate constant for X + X + Y -> X + X + X
-k3 = 2.0*0.5      #Rate constant for B + X -> Y + D
-k4 = 1.0*0.5      #Rate constant for X -> E
+k1 = 1.0      #Rate constant for A -> X
+k2 = 1.0      #Rate constant for X + X + Y -> X + X + X
+k3 = 1.0      #Rate constant for B + X -> Y + D
+k4 = 1.0      #Rate constant for X -> E
 
 A0 = 1.0        #Initial concentration of A
 B0 = 1.0        #Initial concentration of B
