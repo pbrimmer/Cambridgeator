@@ -10,7 +10,7 @@ A Chemical Oscillator Practical for the PSLU MPhil.
 
 Words.
 
-![Formose, from White & Rimmer 2024](https://pubs.acs.org/cms/10.1021/acs.accounts.4c00247/asset/images/large/ar4c00247_0002.jpeg)
+![Formose, from White & Rimmer 2024](formose_white.jpg)
 
 ![alt text](https://images.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
 
