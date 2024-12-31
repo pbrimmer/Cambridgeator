@@ -49,7 +49,7 @@ Holding the concentrations [A], [B], [D] and [E] constant, the concentrations [X
 
 $$
 \begin{align}
-\frac{d[{\rm X}]}{dt} &= k_1 \, [{\rm A}] + k_2 \, [{\rm Y}] \, [{\rm X}]^2 - k_3 \, [{\rm B}] \, [{\rm X}]  - k_4 \, [{\rm X}], \\
-\frac{d[{\rm Y}]}{dt} &= k_3 \, [{\rm B}] \, [{\rm X}] - k_2 \, [{\rm X}]^2 \, [{\rm Y}], \\
+\frac{d[{\rm X}]}{dt} &= k_1 [{\rm A}] + k_2 [{\rm Y}] [{\rm X}]^2 - k_3 [{\rm B}] [{\rm X}]  - k_4 [{\rm X}], \\
+\frac{d[{\rm Y}]}{dt} &= k_3 [{\rm B}] [{\rm X}] - k_2 [{\rm X}]^2 [{\rm Y}], \\
 \end{align}
 $$
