@@ -8,11 +8,10 @@ A Chemical Oscillator Practical for the PSLU MPhil.
 
 ## Pre-Practical Motivation and Review
 
-Words. words.
+> The supreme property of chemical matter is its potency to have given rise to the emergence of life.  
+> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; -- Albert Eschenmoser (2007, Tetrahedron, 63, 24. 21821.
 
-![Formose, from White & Rimmer 2024](formose_white.jpg)
-
-![alt text](https://images.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
+![Formose Reaction, from White & Rimmer 2024](formose_white.jpg)
 
 ## Practical 1: The Iodine Clock Experiment
 
