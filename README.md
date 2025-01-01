@@ -23,8 +23,7 @@ In addition, the chemistry of life is by necessity autocatylitic: its molecules 
 
 Autocatalysis was implicitely connected to life by Erwin Schrödinger in his 1943 lectures on "What is Life?" (the book based on those lectures is well worth reading). Stuard Kauffman and Manfred Eigen were the first to make the connection between autocatalytic chemical networks and life-like behavior relevant for origins of life research. They both discovered these connections independently, both in 1971 (Kauffman SA (1971) Cellular homeostasis, epigenesis and replication in randomly aggregated macromolecular systems. J Cybern 1(1):71–96; Eigen, M., 1971. Selforganization of matter and the evolution of biological macromolecules. Naturwissenschaften, 58, pp.465-523.) Autocatalysis is an active area of research both because it is intrinsically chemically interesting (Hanopolskyi, A.I., Smaliak, V.A., Novichkov, A.I. and Semenov, S.N., 2021. Autocatalysis: Kinetics, mechanisms and design. ChemSystemsChem, 3(1), p.e2000026.) and for its implications for life's origins (e.g. Kocher, C.D. and Dill, K.A., 2024. The prebiotic emergence of biological evolution. Royal Society Open Science, 11(7), p.240431.)
 
-### $${\color{blue} \text{Student Question: What else is needed for life besides autocatylisis? }}$$
-### $${\color{blue} \text{Under what conditions, if any, could the discovery of an autocatylitic set in nature be considered a biosignature?}}$$
+**Student Question: What else is needed for life besides autocatylisis? Under what conditions, if any, could the discovery of an autocatylitic set in nature be considered a biosignature?**
 
 The paradigm prebiotic reaction network exhibiting autocatalysis is the **formose reaction**, the first few steps are shown here:
 
@@ -53,7 +52,8 @@ $$
 
 This reaction takes iodate (${\rm I^{5+}}$), reduces it to iodine (${\rm I^{0+}}$). The iodine will react with melonic acid (${\rm CH_2(COOH)_2}$) to produce diiodomalonic acid (${\rm CI_2(COOH)_2}$) and further reduce some of the iodine to iodide (${\rm I^{1-}}$). The combination of iodine and iodide bonding to the dissolved starch produces a rich blue color. A complex interplay between these reactions, controling the amounts of both iodine and iodide, determine the timing of the transition between a clear color (small amounts of ${\rm I^{0+}}$ and ${\rm I^{1-}}$) to an amber color (${\rm I^{0+} \gg I^{1-}}$) to a blue color (${\rm I^{0+} \approx I^{1-}}$) back to a clearish color (${\rm I^{0+} \ll I^{1-}}$).  
 
-### $${\color{blue} \text{Student Question: Work out the stoichiometry. What is the overall reaction?}}$$
+**Student Question: Work out the stoichiometry. What is the overall reaction?**  
+**Student Challenge Question: What about this chemistry is autocatylitic? You might want to look at the instructions for the experiment and think about what is explicitely mentioned in the scheme above, and what ingredients have been left out.**
 
 The overall reaction in all its detail involves a network of at least 30 individual reactions, and is an area of active research. It is autocatalytic at multiple steps. For more details, see: Yuan, L., Wang, H., Meng, C., Cheng, Z., Lv, X. and Gao, Q., 2023. Multiple iodide autocatalysis paths of chemo-hydrodynamical patterns in the Briggs–Rauscher reaction. Physical Chemistry Chemical Physics, 25(18), pp.13183-13188.  
 
