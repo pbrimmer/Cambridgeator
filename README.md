@@ -53,7 +53,36 @@ This is the reaction you will now carry out experimentally.
 
 ### The Experiment
 
-This experimental setup and procedure is based on the Royal Society of Chemistry guidelines, that can be found [here](https://edu.rsc.org/exhibition-chemistry/oscillating-magic/3010062.article), attached as a pdf in the repository: **Iodine_Clock_RSC.pdf**. The **risk assessment** can be found on the Moodle and hard copies will be available during the day of the experiment.
+This experimental setup and procedure are closely related to the Royal Society of Chemistry guidelines. These can be found [here](https://edu.rsc.org/exhibition-chemistry/oscillating-magic/3010062.article), attached as a pdf in the repository: **Iodine_Clock_RSC.pdf**. The **risk assessment** can be found on the Moodle and hard copies will be available during the day of the experiment.
+
+For a single experiment, you will use these quantities:
+- Hydrogen Peroxide (${\rm H_2O_2}$), 10vol% concentration -- 20 mL
+- Potassium Iodate (${\rm KIO_3}$) -- 1.2 g
+- Sulfuric acid (${\rm H_2SO_4}$), 1vol% concentration -- 20 mL
+- Malonic acid (${\rm CH_2(COOH)_2}$) -- 400 mg
+- Manganese Sulfate Monohydrate (${\rm MnSO_4 \cdot H_2O}$) -- 90 mg
+- Starch, 1vol% concentration -- 1 mL
+- Deionized water -- 20 mL
+
+And will need to follow this procedure:
+1. Don nitrile gloves and safety goggles. The lab coat is safety-optional, but some of the chemicals (the sulfuric acid, hydrogen peroxide, iodine products) could stain your clothing. **Do not consume any part of this experiment!**
+1. Collect three 50 mL beakers, one 100 mL beaker, one scale, one magnetic stirring bar, one magnetic stirrer, one waste jug, and one tray, and some paper towels.
+1. Carry out the entire experiment on your tray.
+1. Measure out 20 mL of the 10% hydrogen peroxide in one of the 50 mL beakers. Label this beaker **"A"** and set aside.
+1. Measure out 20 mL of the 1% sulfuric acid using a syringe into one of the 50 mL beakers. 
+1. Measure out 1.2 g of Potassium Iodate using the scale, and dissolve it in 20 mL of 1% sulfuric acid. Label this beaker **"B"** and set aside.
+1. Measure out 20 mL deionized water into the final 50 mL beaker.
+1. Weigh out 400 mg malonic acid on the scale and add to the deionized water.
+1. Weigh out 90 mg manganese sulfate monohydrate on the scale and add to the malonic acid solution. Label this beaker **"C"** and set aside.
+1. Place the stirring bar in the 100 mL beaker and set it on the stirrer.
+1. Add Beaker **"A"** to the 100 mL beaker.
+1. Turn on the magnetic stirrer, and make sure the stirring is not so vigorous as to splash the solution.
+1. Add Beaker **"B"** to the 100 mL beaker.
+1. Add 1 mL of the 1% starch to the 100 mL beaker.
+1. Add Beaker **"C"** to the 100 mL beaker.
+1. Monitor the reaction, keeping track of the period between color changes, and the total number of color changes.
+1. After a few, maybe a few dozen, color changes, the reaction will stall. Once the reaction has stalled, dump it into the waste jug. Attach the lid loosely and notify one of the instructors.
+1. **If you spill or break anything** stop what you are doing and notify an instructor who will help you clean up the spill and broken glass. Nothing in this experiment is highly toxic or poses immediate danger. It is best left alone and immediately reported.
 
 ### Tasks for Practical 1
 
