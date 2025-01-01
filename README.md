@@ -1,6 +1,8 @@
 # Cambridgeator
 A Chemical Oscillator Practical for the PSLU MPhil. Below are the full instructions for the PSLU practical. Look to the Practical 2 section to find out information about the python code.
 
+![Iodine Oscillator!](IodineOscillator.png)
+
 ## Learning Goals for these Practicals
 
 - Words.
