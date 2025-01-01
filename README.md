@@ -23,6 +23,8 @@ In addition, the chemistry of life is by necessity autocatylitic: its molecules 
 
 Autocatalysis was implicitely connected to life by Erwin Schrödinger in his 1943 lectures on "What is Life?" (the book based on those lectures is well worth reading). Stuard Kauffman and Manfred Eigen were the first to make the connection between autocatalytic chemical networks and life-like behavior relevant for origins of life research. They both discovered these connections independently, both in 1971 (Kauffman SA (1971) Cellular homeostasis, epigenesis and replication in randomly aggregated macromolecular systems. J Cybern 1(1):71–96; Eigen, M., 1971. Selforganization of matter and the evolution of biological macromolecules. Naturwissenschaften, 58, pp.465-523.) Autocatalysis is an active area of research both because it is intrinsically chemically interesting (Hanopolskyi, A.I., Smaliak, V.A., Novichkov, A.I. and Semenov, S.N., 2021. Autocatalysis: Kinetics, mechanisms and design. ChemSystemsChem, 3(1), p.e2000026.) and for its implications for life's origins (e.g. Kocher, C.D. and Dill, K.A., 2024. The prebiotic emergence of biological evolution. Royal Society Open Science, 11(7), p.240431.)
 
+### $${\color{blue} \text{Student Question: What else is needed for life besides autocatylisis? Under what conditions, if any, could the discovery of an autocatylitic set in nature be considered a biosignature?}}$$
+
 The paradigm prebiotic reaction network exhibiting autocatalysis is the **formose reaction**, the first few steps are shown here:
 
 ![Formose Reaction, from White & Rimmer 2024](formose_white.jpg)
