@@ -1,7 +1,7 @@
 # Cambridgeator
-A Chemical Oscillator Practical for the PSLU MPhil.
+A Chemical Oscillator Practical for the PSLU MPhil. Below are the full instructions for the PSLU practical. Look to the Practical 2 section to find out information about the python code.
 
-## Learning Goals for this Practical
+## Learning Goals for these Practicals
 
 - Words.
 - Words.
@@ -31,21 +31,25 @@ Why don't we perform the formose reaction for our practical? For a few reasons. 
 
 ## Practical 1: The Iodine Clock Experiment
 
-Words.
+For Practical 1 we will be exploring the Iodine Clock, or Briggs-Rauscher Oscillator reaction. This reaction involves chemicals that have low toxicity and do not smell terrible, the reaction is a lot more robust and easy to perform, and the desired outcome involves a color change that can be easily seen.
 
-### The Goals of this Practical
+### An approximate description of the reaction
 
-Words.
+The reaction, in broad strokes, is:
 
-### An approximate description of the reaction.
-
-Words.
+$$
+\begin{align}
+{\rm 2 IO_3^- + 2H_2O_2 + 2 H^+} &\rightarrow {\rm I_2 + 5 O_2 + 6 H_2O}, \\
+{\rm I_2 + 5H_2O_2} &\rightarrow {\rm 2 IO_3^- + 2 H^+ + 4 H_2O}, \\
+{\rm 2 I_2 + CH_2(COOH)_2} &\rightarrow {\rm 2 I^- + 2 H^+ + CI_2(COOH)_2}.
+\end{align}
+$$
 
 ### The Experiment
 
 Words.
 
-### The Measurements
+### Tasks for Practical 1
 
 Words.
 
@@ -53,7 +57,8 @@ Words.
 
 Words.
 
-### Description of the Oscillator:
+### Description of the Oscillator
+
 The Cambridgeator, which is really just the Brusselator set up to compare with the Iodine clock experiment, follows these reactions involving the chemical species A, B, D, E, X and Y, with rate constants $k_1$, $k_2$, $k_3$, and $k_4$, as such:
 
 $$
@@ -79,3 +84,7 @@ $$
 **Student Question: What is the system's steady state?**  
 **Student Challenge Question: Is the steady state stable or unstable?**  
 Words.
+
+### Description of the Code
+
+### Tasks for Practical 2
