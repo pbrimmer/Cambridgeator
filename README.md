@@ -65,8 +65,9 @@ For a single experiment, you will use these quantities:
 - Deionized water -- 20 mL
 
 And will need to follow this procedure:
+1. **Before you do anything else**, read this entire procedure, and the risk assessment, and ask questions if you are unclear about anything, especially if you are unclear about safety.
 1. Don nitrile gloves and safety goggles. The lab coat is safety-optional, but some of the chemicals (the sulfuric acid, hydrogen peroxide, iodine products) could stain your clothing. **Do not consume any part of this experiment!**
-1. Collect three 50 mL beakers, one 100 mL beaker, one scale, one magnetic stirring bar, one magnetic stirrer, one waste jug, and one tray, and some paper towels.
+1. Collect three 50 mL beakers, one 100 mL beaker, one scale, one magnetic stirring bar, one magnetic stirrer, one waste jug, and one tray, and a stop watch (unless you plan to time your reaction another way) and some paper towels.
 1. Carry out the entire experiment on your tray.
 1. Measure out 20 mL of the 10% hydrogen peroxide in one of the 50 mL beakers. Label this beaker **"A"** and set aside.
 1. Measure out 20 mL of the 1% sulfuric acid using a syringe into one of the 50 mL beakers. 
@@ -86,7 +87,18 @@ And will need to follow this procedure:
 
 ### Tasks for Practical 1
 
-Words.
+Here are the tasks for this Practical:
+
+1. Break up into three groups.
+1. Each student collects a lab book.
+1. Read the entire procedure: **this document** individually.
+1. Answer the **Student Question(s)** in this document and discuss your answers with your group.
+1. As a group, prepare the experiment. Each student should record what was done within their group in preparation.
+1. As a group, perform the experiment.
+1. **Make sure to get at least two quantities** plus an estimate of uncertainty for these quantities: 
+  1. The period between color changes.
+  1. The number of periods until the reaction stalls.
+1. Note any discrepancies between the experimental preparation and experimantal performance in your lab book, and record the results.
 
 ## Practical 2: The Chemical Oscillator
 
