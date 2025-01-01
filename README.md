@@ -29,9 +29,9 @@ The formose reaction was first discovered by Alexandr Butlerov (Butlerow, A. (18
 
 Why don't we perform the formose reaction for our practical? For a few reasons. First, it involves formaldehyde which is a toxic and stinky chemical. Second, the reaction itself is finnicky and if not performed under exacting conditions, the outcome is just a mess of a bunch of sugars. Finally, the outcome is invisible to our eyes, and requires more advanced chemical techniques, such as mass spectrometry, chromotragphy, or nuclear magnetic resonance, to analyze. For these three reasons, we will choose another reaction.
 
-## Practical 1: The Iodine Clock Experiment
+## Practical 1: The Iodine Oscillator Experiment
 
-For Practical 1 we will be exploring the Iodine Clock, or Briggs-Rauscher Oscillator reaction. This reaction involves chemicals that have low toxicity and do not smell terrible, the reaction is a lot more robust and easy to perform, and the desired outcome involves a color change that can be easily seen.
+For Practical 1 we will be exploring the Iodine Oscillator, or Briggs-Rauscher Oscillator reaction. This reaction involves chemicals that have low toxicity and do not smell terrible, the reaction is a lot more robust and easy to perform, and the desired outcome involves a color change that can be easily seen.
 
 ### An approximate description of the reaction
 
@@ -53,7 +53,7 @@ This is the reaction you will now carry out experimentally.
 
 ### The Experiment
 
-This experimental setup and procedure are closely related to the Royal Society of Chemistry guidelines. These can be found [here](https://edu.rsc.org/exhibition-chemistry/oscillating-magic/3010062.article), attached as a pdf in the repository: **Iodine_Clock_RSC.pdf**. The **risk assessment** can be found on the Moodle and hard copies will be available during the day of the experiment.
+This experimental setup and procedure are closely related to the Royal Society of Chemistry guidelines. These can be found [here](https://edu.rsc.org/exhibition-chemistry/oscillating-magic/3010062.article), attached as a pdf in the repository: **Iodine_Oscillator_RSC.pdf**. The **risk assessment** can be found on the Moodle and hard copies will be available during the day of the experiment.
 
 For a single experiment, you will use these quantities:
 - Hydrogen Peroxide (${\rm H_2O_2}$), 10vol% concentration -- 20 mL
@@ -106,7 +106,7 @@ Words.
 
 ### Description of the Oscillator
 
-The Cambridgeator, which is really just the Brusselator set up to compare with the Iodine clock experiment, follows these reactions involving the chemical species A, B, D, E, X and Y, with rate constants $k_1$, $k_2$, $k_3$, and $k_4$, as such:
+The Cambridgeator, which is really just the Brusselator set up to compare with the Iodine oscillator experiment, follows these reactions involving the chemical species A, B, D, E, X and Y, with rate constants $k_1$, $k_2$, $k_3$, and $k_4$, as such:
 
 $$
 \begin{align}
