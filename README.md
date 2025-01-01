@@ -1,3 +1,7 @@
+<style>
+Q { color: Blue }
+</style>
+
 # Cambridgeator
 A Chemical Oscillator Practical for the PSLU MPhil. Below are the full instructions for the PSLU practical. Look to the Practical 2 section to find out information about the python code.
 
@@ -48,7 +52,7 @@ $$
 $$
 
 This reaction takes iodate (${\rm I^{5+}}$), reduces it to iodine (${\rm I^{0+}}$). The iodine will react with melonic acid (${\rm CH_2(COOH)_2}$) to produce diiodomalonic acid (${\rm CI_2(COOH)_2}$) and further reduce some of the iodine to iodide (${\rm I^{1-}}$). The combination of iodine and iodide bonding to the dissolved starch produces a rich blue color. A complex interplay between these reactions, controling the amounts of both iodine and iodide, determine the timing of the transition between a clear color (small amounts of ${\rm I^{0+}}$ and ${\rm I^{1-}}$) to an amber color (${\rm I^{0+} \gg I^{1-}}$) to a blue color (${\rm I^{0+} \approx I^{1-}}$) back to a clearish color (${\rm I^{0+} \ll I^{1-}}$).  
-**Student Question: Work out the stoichiometry. What is the overall reaction?**  
+**<Q>Student Question: Work out the stoichiometry. What is the overall reaction?</Q>**  
 The overall reaction in all its detail involves a network of at least 30 individual reactions, and is an area of active research. It is autocatalytic at multiple steps. For more details, see: Yuan, L., Wang, H., Meng, C., Cheng, Z., Lv, X. and Gao, Q., 2023. Multiple iodide autocatalysis paths of chemo-hydrodynamical patterns in the Briggs–Rauscher reaction. Physical Chemistry Chemical Physics, 25(18), pp.13183-13188.  
 
 This is the reaction you will now carry out experimentally.
@@ -95,7 +99,7 @@ Here are the tasks for this Practical:
 1. Break up into three groups.
 1. Each student collects a lab book.
 1. Read the entire procedure (**this document**) individually.
-1. Answer the **Student Question(s)** in this document and discuss your answers with your group.
+1. Answer the **Student Questions** in this document and discuss your answers with your group.
 1. As a group, prepare the experiment. Each student should write out the prepared procedure of the experiment in their lab book.
 1. As a group, perform the experiment.
 1. **Make sure to get at least two quantities** plus an estimate of uncertainty for these quantities: 
