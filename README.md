@@ -100,7 +100,7 @@ Here are the tasks for this Practical:
 
 1. Break up into three groups.
 1. Each student collects a lab book.
-1. Read the entire procedure (**this document**) individually.
+1. Read the entire procedure (**Practical 1**) individually.
 1. Answer the **Student Questions** in this document and discuss your answers with your group.
 1. As a group, prepare the experiment. Each student should write out the prepared procedure of the experiment in their lab book.
 1. As a group, perform the experiment.
@@ -139,8 +139,34 @@ $$
 
 **Student Question: What is the system's steady state?**  
 **Student Challenge Question: Is the steady state stable or unstable?**  
-Words.
+
+The above reaction isn't really like the Iodine Oscillator, certainly not in its details. In fact, as mentioned already, a full explanation for the mechanism for the iodine oscillator is an active area of research! But the Cambridgeator can provide a *toy model* of the Iodine Oscillator. It has a *fuel*, *waste*, and two intermediate species that change in tandem.
+
+**Student Question: Identify the fuel, waste and intermediates.** 
+
+The model will predict the amount of X and Y as a function of time. It will be up to you to determine how relative amounts of X and Y relate to the color changes, and then to fit your data from Practical 1 to the model here.
 
 ### Description of the Code
 
+The code is at present only one file:
+
+> cambridgeator.py
+
+This code is extensively, but not fully, commented. It produces two output files:
+
+> ChemParam.pdf  
+> ChemTime.pdf  
+
 ### Tasks for Practical 2
+
+1. Break up into **the same** three groups as before.
+1. Each student collects **their own** lab book.
+1. Read the entire procedure (**Practical 2**) individually.
+1. Answer the **Student Questions** in this document and discuss your answers with your group.
+1. Clone this repository. (Google how to do this if you don't know how.)
+1. Run the code: `python cambridgeator.py`
+1. Look at the output files, `ChemParam.pdf` and `ChemTime.pdf`.
+1. Read through the code and start making changes to some of the inputs and see how the outputs change.
+1. Figure out a way to predictively set the inputs to best match your data. **One big challenge for this step is figuring out how your experimental data should relate to the model.**
+1. Find a way to quantify *goodness of fit*
+1. Discuss your model output as a group, and record your procedure and final results in your individual lab books.
