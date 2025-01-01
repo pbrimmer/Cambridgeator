@@ -39,15 +39,21 @@ The reaction, in broad strokes, is:
 
 $$
 \begin{align}
-{\rm 2 IO_3^- + 2H_2O_2 + 2 H^+} &\rightarrow {\rm I_2 + 5 O_2 + 6 H_2O}, \\
+{\rm 2 IO_3^- + 2 H_2O_2 + 2 H^+} &\rightarrow {\rm I_2 + 5 O_2 + 6 H_2O}, \\
 {\rm I_2 + 5H_2O_2} &\rightarrow {\rm 2 IO_3^- + 2 H^+ + 4 H_2O}, \\
 {\rm 2 I_2 + CH_2(COOH)_2} &\rightarrow {\rm 2 I^- + 2 H^+ + CI_2(COOH)_2}.
 \end{align}
 $$
 
+This reaction takes iodate (${\rm I^{5+}}$), reduces it to iodine (${\rm I^{0+}}$). The iodine will react with melonic acid (${\rm CH_2(COOH)_2}$) to produce diiodomalonic acid (${\rm CI_2(COOH)_2}$) and further reduce some of the iodine to iodide (${\rm I^{1-}}$). The combination of iodine and iodide bonding to the dissolved starch produces a rich blue color. A complex interplay between these reactions, controling the amounts of both iodine and iodide, determine the timing of the transition between a clear color (small amounts of ${\rm I^{0+}$ and ${\rm I^{1-}}$) to an amber color (${\rm I^{0+} \gg I^{1-}}$) to a blue color (${\rm I^{0+} \approx I^{1-}}$) back to a clearish color (${\rm I^{0+} \ll I^{1-}}$).  
+**Student Question: Work out the stoichiometry. What is the overall reaction?**  
+The overall reaction in all its detail involves a network of at least 30 individual reactions, and is an area of active research. It is autocatalytic at multiple steps. For more details, see: Yuan, L., Wang, H., Meng, C., Cheng, Z., Lv, X. and Gao, Q., 2023. Multiple iodide autocatalysis paths of chemo-hydrodynamical patterns in the Briggs–Rauscher reaction. Physical Chemistry Chemical Physics, 25(18), pp.13183-13188.  
+
+This is the reaction you will now carry out experimentally.
+
 ### The Experiment
 
-Words.
+This experimental setup and procedure is based on the Royal Society of Chemistry guidelines, that can be found [here](https://edu.rsc.org/exhibition-chemistry/oscillating-magic/3010062.article), attached as a pdf in the repository: **Iodine_Clock_RSC.pdf**. The **risk assessment** can be found on the Moodle and hard copies will be available during the day of the experiment.
 
 ### Tasks for Practical 1
 
