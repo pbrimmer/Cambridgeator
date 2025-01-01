@@ -91,13 +91,13 @@ Here are the tasks for this Practical:
 
 1. Break up into three groups.
 1. Each student collects a lab book.
-1. Read the entire procedure: **this document** individually.
+1. Read the entire procedure (**this document**) individually.
 1. Answer the **Student Question(s)** in this document and discuss your answers with your group.
-1. As a group, prepare the experiment. Each student should record what was done within their group in preparation.
+1. As a group, prepare the experiment. Each student should write out the prepared procedure of the experiment in their lab book.
 1. As a group, perform the experiment.
 1. **Make sure to get at least two quantities** plus an estimate of uncertainty for these quantities: 
-  1. The period between color changes.
-  1. The number of periods until the reaction stalls.
+    1. The period between color changes.
+    1. The number of periods until the reaction stalls.
 1. Note any discrepancies between the experimental preparation and experimantal performance in your lab book, and record the results.
 
 ## Practical 2: The Chemical Oscillator
