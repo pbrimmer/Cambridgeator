@@ -52,7 +52,7 @@ This reaction takes iodate (${\rm I^{5+}}$), reduces it to iodine (${\rm I^{0+}}
 
 $$
 \color{blue}
-\textbf{Student Question: Work out the stoichiometry. What is the overall reaction?}
+\textbf{**Student Question: Work out the stoichiometry. What is the overall reaction?**}
 $$
 
 The overall reaction in all its detail involves a network of at least 30 individual reactions, and is an area of active research. It is autocatalytic at multiple steps. For more details, see: Yuan, L., Wang, H., Meng, C., Cheng, Z., Lv, X. and Gao, Q., 2023. Multiple iodide autocatalysis paths of chemo-hydrodynamical patterns in the Briggs–Rauscher reaction. Physical Chemistry Chemical Physics, 25(18), pp.13183-13188.  
