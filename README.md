@@ -85,6 +85,7 @@ And will need to follow this procedure:
 1. Add Beaker **"C"** to the 100 mL beaker.
 1. Monitor the reaction, keeping track of the period between color changes, and the total number of color changes.
 1. After a few, maybe a few dozen, color changes, the reaction will stall. Once the reaction has stalled, dump it into the waste jug. Attach the lid loosely and notify one of the instructors.
+1. Leave the gloves on your group tray and your lab coats and safety glasses on the table near your group tray.
 1. **If you spill or break anything** stop what you are doing and notify an instructor who will help you clean up the spill and broken glass. Nothing in this experiment is highly toxic or poses immediate danger. It is best left alone and immediately reported.
 
 ### Tasks for Practical 1
@@ -104,11 +105,11 @@ Here are the tasks for this Practical:
 
 ## Practical 2: The Chemical Oscillator
 
-Words.
+For the second practical, you will be taking your data from Practical 1 and fitting it to a *toy model*. A *toy model* is a model that doesn't really describe or predict the behavior of a physical system in some critical way, but captures some fundamental principle of the physical system in a simple explanatorally powerful way. Toy models can miss important aspects of an experiment, and can even be physically impossible, so long as they capture key physical insight into a process, phenomenon, or mechanism of particular interest. Our toy model is the **Cambridgeator**!
 
 ### Description of the Oscillator
 
-The Cambridgeator, which is really just the Brusselator set up to compare with the Iodine oscillator experiment, follows these reactions involving the chemical species A, B, D, E, X and Y, with rate constants $k_1$, $k_2$, $k_3$, and $k_4$, as such:
+The Cambridgeator, which is really just [the Brusselator](https://link.springer.com/chapter/10.1007/978-1-4612-0651-4_10) set up to compare with the Iodine oscillator experiment, follows these reactions involving the chemical species A, B, D, E, X and Y, with rate constants $k_1$, $k_2$, $k_3$, and $k_4$, as such:
 
 $$
 \begin{align}
