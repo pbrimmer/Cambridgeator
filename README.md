@@ -23,7 +23,7 @@ In addition, the chemistry of life is by necessity autocatylitic: its molecules 
 
 Autocatalysis was implicitely connected to life by Erwin Schrödinger in his 1943 lectures on "What is Life?" (the book based on those lectures is well worth reading). Stuard Kauffman and Manfred Eigen were the first to make the connection between autocatalytic chemical networks and life-like behavior relevant for origins of life research. They both discovered these connections independently, both in 1971 (Kauffman SA (1971) Cellular homeostasis, epigenesis and replication in randomly aggregated macromolecular systems. J Cybern 1(1):71–96; Eigen, M., 1971. Selforganization of matter and the evolution of biological macromolecules. Naturwissenschaften, 58, pp.465-523.) Autocatalysis is an active area of research both because it is intrinsically chemically interesting (Hanopolskyi, A.I., Smaliak, V.A., Novichkov, A.I. and Semenov, S.N., 2021. Autocatalysis: Kinetics, mechanisms and design. ChemSystemsChem, 3(1), p.e2000026.) and for its implications for life's origins (e.g. Kocher, C.D. and Dill, K.A., 2024. The prebiotic emergence of biological evolution. Royal Society Open Science, 11(7), p.240431.)
 
-**Student Question: What else is needed for life besides autocatylisis? Under what conditions, if any, could the discovery of an autocatylitic set in nature be considered a biosignature?**
+**Student Question: Under what conditions, if any, could the discovery of an autocatylitic set in nature be considered a biosignature?**
 
 The paradigm prebiotic reaction network exhibiting autocatalysis is the **formose reaction**, the first few steps are shown here:
 
@@ -170,3 +170,11 @@ This code is extensively, but not fully, commented. It produces two output files
 1. Figure out a way to predictively set the inputs to best match your data. **One big challenge for this step is figuring out how your experimental data should relate to the model.**
 1. Find a way to quantify *goodness of fit*
 1. Discuss your model output as a group, and record your procedure and final results in your individual lab books.
+
+## Take-away Questions
+
+After you've finished everything, here are some questions for you to ponder; not required for the lab books or anything else.
+
+**Student Question: Do you really think autocatalysis is a necessary condition for life? Could you think of a counter-example?**  
+**Student Question: Is autocatalysis sufficient for life? If not, what else do you think is needed for life?**  
+**Challenge Student Question: How are the Brusselator/Cambridgeator reactions related to the Lotka–Volterra equations? This will connect with C4.**
