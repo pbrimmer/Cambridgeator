@@ -27,8 +27,8 @@ Autocatalysis was implicitely connected to life by Erwin Schrödinger in his 194
 
 The paradigm prebiotic reaction network exhibiting autocatalysis is the **formose reaction**, the first few steps are shown here:
 
-![Formose Reaction, from White & Rimmer 2024](formose_white.jpg)
-**The formose reaction, showing interfering side reactions, from Rimmer & White, 2024, Accounts of Chemical Research, [https://doi.org/10.1021/acs.accounts.4c00247](https://pubs.acs.org/doi/10.1021/acs.accounts.4c00247)**
+![Formose Reaction, from White & Rimmer 2025](formose_white.jpg)
+**The formose reaction, showing interfering side reactions, from White & Rimmer 2025, Accounts of Chemical Research, [https://doi.org/10.1021/acs.accounts.4c00247](https://pubs.acs.org/doi/10.1021/acs.accounts.4c00247)**
 
 The formose reaction was first discovered by Alexandr Butlerov (Butlerow, A. (1861), "Bildung einer zuckerartigen Substanz durch Synthese", Justus Liebigs Annalen der Chemie, 120: 295–298) and first discovered to be autocatalytic by Ronald Breslow (Breslow, R. (1959). "On the Mechanism of the Formose Reaction". Tetrahedron Letters. 1 (21): 22–26). This reaction is important both because it shows chemistry that exhibits life-like behavior in autocatalysis and because it takes a single-carbon molecule that can be produced in ancient atmospheres, formaldehyde, and can convert it into more complex sugars, including ribose, one of the key components of ribonucleotides, the building blocks of RNA.
 
