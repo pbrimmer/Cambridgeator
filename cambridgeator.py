@@ -50,6 +50,7 @@ E0 = 0.0        #Initial concentration of E
 
 n = A0 + B0 + X0 + Y0 + D0 + E0     #Total concentration, sum of A+B+X+Y+D+E
 
+#Set the old values.
 Aold = A0
 Bold = B0
 Xold = X0
@@ -57,6 +58,8 @@ Yold = Y0
 Dold = D0
 Eold = E0
 
+#Generate the arrays.
+#AN IMPROVEMENT FOR THE FUTURE: Only save some entries, so these arrays don't kill memory.
 tdat = np.array([t])
 Adat = np.array([A0])
 Bdat = np.array([B0])
@@ -85,7 +88,7 @@ while t < tmax and count < cmax:
     dD_dt = k3*B*X
     dE_dt = k4*X
 
-    #Figure out the timestep
+    #Figure out the timestep (loosely based on Courant conditions)
 
     RA = np.abs(dA_dt)
     RB = np.abs(dB_dt)
@@ -97,13 +100,6 @@ while t < tmax and count < cmax:
     dtmin = 1e-2*n/(np.max(np.array([RA,RB,RX,RY,RD,RE])))
 
     taumin = dtmin
-
-    #if RA > 0.0 and A > 0.0: taumin = A/RA
-    #if RB > 0.0 and B > 0.0 and (taumin <= dtmin or B/RB < taumin): taumin = B/RB
-    #if RX > 0.0 and X > 0.0 and (taumin <= dtmin or X/RB < taumin): taumin = X/RX
-    #if RY > 0.0 and Y > 0.0 and (taumin <= dtmin or Y/RB < taumin): taumin = Y/RY
-    #if RD > 0.0 and D > 0.0 and (taumin <= dtmin or D/RB < taumin): taumin = D/RD
-    #if RE > 0.0 and E > 0.0 and (taumin <= dtmin or E/RB < taumin): taumin = E/RE
 
     dt = alpha*taumin
 
@@ -139,6 +135,10 @@ while t < tmax and count < cmax:
     Dold = Dnew
     Eold = Enew
 
+#Plot the output chemistry. It can be worth exploring changes in species commented out. There are prebiotic implications for these choices.
+
+#Concentration (A,B,X,Y,D,E) vs. time (s).
+
 #plt.plot(tdat,Adat,label='[A]')
 #plt.plot(tdat,Bdat,label='[B]')
 plt.plot(tdat,Xdat,label='[X]')
@@ -158,6 +158,7 @@ plt.savefig('./ChemTime.pdf',bbox_inches='tight')
 
 plt.clf()
 
+#Concentration of X vs concentration of Y.
 plt.plot(Xdat,Ydat,'k-')
 plt.xlabel('[X]')
 plt.ylabel('[Y]')
