@@ -65,8 +65,6 @@ Ydat = np.array([Y0])
 Ddat = np.array([D0])
 Edat = np.array([E0])
 
-print('%.3e' % (B0 - k4/k3 - k1*k1*k2/(k3*k4*k4)*A0*A0))
-
 while t < tmax and count < cmax:
 
     #Initiate A and B
@@ -89,13 +87,6 @@ while t < tmax and count < cmax:
 
     #Figure out the timestep
 
-    #print(dA_dt)
-    #print(dB_dt)
-    #print(dX_dt)
-    #print(dY_dt)
-    #print(dD_dt)
-    #print(dE_dt)
-
     RA = np.abs(dA_dt)
     RB = np.abs(dB_dt)
     RX = np.abs(dX_dt)
@@ -113,8 +104,6 @@ while t < tmax and count < cmax:
     #if RY > 0.0 and Y > 0.0 and (taumin <= dtmin or Y/RB < taumin): taumin = Y/RY
     #if RD > 0.0 and D > 0.0 and (taumin <= dtmin or D/RB < taumin): taumin = D/RD
     #if RE > 0.0 and E > 0.0 and (taumin <= dtmin or E/RB < taumin): taumin = E/RE
-
-    #print(taumin)
 
     dt = alpha*taumin
 
