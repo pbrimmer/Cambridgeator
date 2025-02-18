@@ -6,8 +6,11 @@ A Chemical Oscillator Practical for the PSLU MPhil. Below are the full instructi
 
 ## Learning Goals for these Practicals
 
-- Words.
-- Words.
+- Learn about experimental chemistry
+- Comparision of experiment to theory
+- Error propagation
+- Kinetic chemical theory
+- Kinetic stability and autocatalysis
 
 ## Pre-Practical Motivation and Review
 
